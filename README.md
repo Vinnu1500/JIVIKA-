@@ -32,7 +32,7 @@ Solar project
 
   <section>
     <h2>हमसे संपर्क करें</h2>
-    <p>फोन: +91-XXXXXXXXXX</p>
+    <p>फोन: +91-9610625257</p>
     <p>Email: jivikaenterprise@email.com</p>
     <a class="button" href="https://wa.me/91XXXXXXXXXX">WhatsApp पर बात करें</a>
   </section>
